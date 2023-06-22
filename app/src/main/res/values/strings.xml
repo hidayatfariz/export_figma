@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- pembayaran strings -->
+
+	<string name="app_name">Page 2</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="pembayaran_ek3_string">Pembayaran</string>
+	<string name="pesanan_string">Pesanan</string>
+	<string name="asrama_itb_jatinangor_string">Asrama ITB Jatinangor</string>
+	<string name="alamat_pengiriman_string">Alamat Pengiriman</string>
+	<string name="isi_detail_alamat_string">Isi detail alamat</string>
+	<string name="ganti_alamat_string">Ganti alamat</string>
+	<string name="_23_000_string">23.000</string>
+	<string name="_25_000_string">25.000</string>
+	<string name="mie_ayam_bakso_cincang_string">Mie Ayam Bakso Cincang</string>
+	<string name="___string">-</string>
+	<string name="_1___string">1   +</string>
+	<string name="_25_000_23_000_12_000_3_000_38_000_string">25.000  23.00012.0003.00038.000</string>
+	<string name="harga_ongkir_biaya_layanan_total_pembayaran_string">HargaOngkirBiaya layananTotal Pembayaran</string>
+	<string name="ringkasan_pembayaran_string">Ringkasan Pembayaran</string>
+	<string name="pesan_dan_antar_sekarang_string">Pesan dan Antar Sekarang</string>
+    <string name="fill_202">fill_202</string>
+</resources>
